@@ -7,4 +7,6 @@
     <string name="county">county</string>
     <string name="fail">加载失败</string>
     <string name="fighting">正在加载。。。。。</string>
+    <string name="tongbu">同步中...........</string>
+    <string name="tongbufail">同步失败</string>
 </resources>

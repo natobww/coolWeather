@@ -3,4 +3,5 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="titlesize">24sp</dimen>
+    <dimen name="pushtextsize">18sp</dimen>
 </resources>
